@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65854A901E2162E10096FA4B /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 65854A8F1E2162E10096FA4B /* pokemon.csv */; };
 		65FC71B71E20322700D9676F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65FC71B61E20322700D9676F /* AppDelegate.swift */; };
 		65FC71B91E20322700D9676F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65FC71B81E20322700D9676F /* ViewController.swift */; };
 		65FC71BC1E20322700D9676F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65FC71BA1E20322700D9676F /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		65854A8F1E2162E10096FA4B /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		65FC71B31E20322700D9676F /* pokedex3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokedex3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65FC71B61E20322700D9676F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65FC71B81E20322700D9676F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				65FC71B81E20322700D9676F /* ViewController.swift */,
 				65FC71BA1E20322700D9676F /* Main.storyboard */,
 				65FC71BD1E20322700D9676F /* Assets.xcassets */,
+				65854A8F1E2162E10096FA4B /* pokemon.csv */,
 				65FC71BF1E20322700D9676F /* LaunchScreen.storyboard */,
 				65FC71C21E20322700D9676F /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				65FC71C11E20322700D9676F /* LaunchScreen.storyboard in Resources */,
 				65FC71BE1E20322700D9676F /* Assets.xcassets in Resources */,
+				65854A901E2162E10096FA4B /* pokemon.csv in Resources */,
 				65FC71BC1E20322700D9676F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +304,7 @@
 				65FC71C71E20322700D9676F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
